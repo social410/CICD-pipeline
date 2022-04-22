@@ -1,5 +1,5 @@
-resource "aws_security_group" "SamBlack" {
-  name        = "SamBlack"
+resource "aws_security_group" "funmi" {
+  name        = "funmi"
   description = "allow ssh and http traffic"
 
   ingress {
